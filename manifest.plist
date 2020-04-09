@@ -11,14 +11,6 @@
      <key>url</key>
      <string>https://npgsweb.scodicim.com:8496/Files/static/PNAPP.ipa</string>
     </dict>
-    <dict>
-     <key>kind</key>
-     <string>display-image</string>
-     <key>need-shine</key>
-     <integer>0</integer>
-     <key>url</key>
-     <string>https://npgsweb.scodicim.com:8496/Files/static/pnicon.png</string>
-    </dict>
    </array>
    <key>metadata</key>
    <array>
