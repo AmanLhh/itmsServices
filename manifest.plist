@@ -17,7 +17,7 @@
      <key>need-shine</key>
      <integer>0</integer>
      <key>url</key>
-     <string>http://182.61.132.113:8080/upload/pnicon.png</string>
+     <string>https://npgsweb.scodicim.com:8496/Files/static/pnicon.png</string>
     </dict>
    </array>
    <key>metadata</key>
